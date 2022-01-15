@@ -1,2 +1,2 @@
 # NLL
-Natural Language Libraries
+Natural Language Library
